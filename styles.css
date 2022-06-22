@@ -1,0 +1,51 @@
+.heading {
+    font-family: "Monaco", "sans-serif";
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+.subheading {
+    text-align: center;
+}
+
+h2 {
+    font-family: "Monaco", "sans-serif";
+    text-decoration: underline;
+}
+
+.image#main_index_image {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+}
+
+.image {
+    display:block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+}
+
+p,
+h3,
+ol,
+ul,
+a {
+    font-family: "Monaco", "sans-serif";
+}
+
+.recipes{
+    background-color: yellow;
+    font-size: 20px;
+    color: black;
+}
+
+button{
+    background-color: yellow;
+    display: block;
+    margin: 0 auto;
+}
+
+
